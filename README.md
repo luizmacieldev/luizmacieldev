@@ -1,72 +1,67 @@
 <div align="center">
 
-# 👋 Hi, I'm Luiz Maciel
+<img src="./assets/github-banner.png" width="100%" alt="Luiz Maciel - Software Developer"/>
 
-### Software Developer • Python • Django • Full Stack
+<br/>
 
-I build reliable, scalable and well-structured software solutions.
+<a href="https://github.com/luizmacieldev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/luizmacieldev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/luizmacieldev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://luizmacieldev.github.io/)
+<a href="https://luizmacieldev.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 About Me
 
-I'm a **Software Developer** with a strong background in backend and full-stack development.
+I'm a **Software Developer** focused on building web applications, APIs, automation solutions and reliable software systems.
 
-My main focus is building **web applications, APIs, integrations and automation solutions**, with a particular interest in Python and the Django ecosystem.
+My main stack revolves around **Python, Django and React**, but I also have experience across backend, frontend, databases, cloud and web scraping.
 
-Over the years, I've worked across different parts of the software development lifecycle — from designing backend services and database structures to building user interfaces and integrating external systems.
+I enjoy turning ideas into real products and solving problems through clean, maintainable and well-structured code.
 
-I'm also experienced with **web scraping and data processing**, which allows me to build solutions that combine software engineering with automated data extraction.
+### 💻 What I work with
 
-* 🐍 Python developer
-* 🌐 Backend & Full Stack development
-* ⚡ Django & Django REST Framework
-* 🕷️ Web scraping & automation
-* 🗄️ SQL & NoSQL databases
-* ☁️ Cloud & containerized applications
-* 🧩 API design & integrations
-* 🎨 Modern frontend development
-* 🧪 Testing, refactoring & code quality
+* 🐍 **Python & Django** — Backend, APIs and business logic
+* ⚛️ **React & JavaScript/TypeScript** — Modern frontend applications
+* 🌐 **Full Stack Development** — From database to user interface
+* 🕷️ **Web Scraping & Automation** — Scrapy, Selenium and Playwright
+* 🔌 **APIs & Integrations** — REST APIs and external services
+* 🗄️ **Databases** — PostgreSQL, MongoDB and SQL
+* 🐳 **Docker & Cloud** — Containerized applications and AWS
+* 🧪 **Testing & Code Quality** — Building reliable software
 
 ---
 
-## 🛠️ Technologies
+# 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,html,css" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,flask,dotnet" />
+  <img src="https://skillicons.dev/icons?i=django,dotnet,flask,fastapi" />
 </p>
-
-`Django` • `Django REST Framework` • `APIs` • `REST`
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
 </p>
-
-`PostgreSQL` • `MongoDB` • `MySQL` • `SQL Server`
 
 ### Tools & Cloud
 
@@ -74,156 +69,253 @@ I'm also experienced with **web scraping and data processing**, which allows me 
   <img src="https://skillicons.dev/icons?i=docker,git,github,aws,linux" />
 </p>
 
-`Docker` • `Git` • `AWS` • `Linux`
+### Other
 
-### Web Scraping & Data
+```text
+Web Scraping
+  ├── Scrapy
+  ├── BeautifulSoup
+  ├── Selenium
+  └── Playwright
 
-`Scrapy` • `Playwright` • `Selenium` • `BeautifulSoup` • `Pandas` • `PySpark`
+Data
+  ├── Pandas
+  ├── PySpark
+  ├── Airflow
+  └── AWS S3
+
+Development
+  ├── REST APIs
+  ├── System Integration
+  ├── Automated Testing
+  └── CI/CD
+```
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%">
 
 ### 🕷️ Country Music Scraper
 
-A web scraping application built with **Scrapy** to collect detailed information about country music artists from Last.fm.
+Web scraping application built with **Python and Scrapy** to collect detailed information about country music artists from Last.fm.
 
-The project stores structured data in **MongoDB** and uses **Streamlit** to provide an interactive interface for exploring the collected information.
+**Stack**
 
-**Technologies:**
 `Python` `Scrapy` `MongoDB` `Streamlit`
 
-[View project →](https://github.com/luizmacieldev/country_music_scrapper)
+<br/>
 
----
+<a href="https://github.com/luizmacieldev/country_music_scrapper">
+View Project →
+</a>
+
+</td>
+
+<td width="50%">
 
 ### 🧍 Attack on Titan Explorer
 
-A full-stack application based on **Attack on Titan**, built to explore characters, titans and episodes.
+Full-stack application for exploring characters, titans and episodes from Attack on Titan.
 
-**Technologies:**
-`Django` `Next.js` `Python` `JavaScript`
+**Stack**
 
----
+`Django` `React` `API` `JavaScript`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ### 🎮 Free Games Explorer
 
-A modern web application for discovering and exploring free-to-play games through the FreeToGame API.
+Modern frontend application for discovering and exploring free-to-play games using an external REST API.
 
-**Technologies:**
-`Vue 3` `JavaScript` `REST API`
+**Stack**
 
----
+`Vue` `JavaScript` `REST API`
+
+</td>
+
+<td width="50%">
 
 ### 👨‍💼 Avature Job Scraper
 
-A web scraper designed to collect job postings from companies using the **Avature ATS**.
+Automation solution designed to collect job postings from companies using the Avature ATS.
 
-The application automates the extraction of job information from multiple career websites.
+**Stack**
 
-**Technologies:**
-`Python` `Web Scraping` `Automation`
+`Python` `Selenium` `Web Scraping`
 
----
+</td>
 
-### 📚 Books to Scrape
+</tr>
+</table>
 
-A web scraping project that extracts book information and stores the processed data in PostgreSQL.
-
-**Technologies:**
-`Python` `Scrapy` `PostgreSQL`
+</div>
 
 ---
 
-## 💻 What I Like Building
+# 💡 What I Like Building
 
 ```text
-Web Applications
-        ↓
-Backend APIs
-        ↓
-Database Design
-        ↓
-External Integrations
-        ↓
-Automation & Web Scraping
-        ↓
-Data Processing
+             💡 Idea
+                │
+                ▼
+        ┌───────────────┐
+        │   Backend     │
+        │ Python/Django │
+        └───────┬───────┘
+                │
+        ┌───────▼───────┐
+        │   Database    │
+        │ PostgreSQL /  │
+        │   MongoDB     │
+        └───────┬───────┘
+                │
+        ┌───────▼───────┐
+        │    Frontend   │
+        │ React / Next  │
+        └───────┬───────┘
+                │
+        ┌───────▼───────┐
+        │   Deployment  │
+        │ Docker / AWS  │
+        └───────────────┘
 ```
 
-I enjoy working on projects where different parts of the system need to work together as one reliable solution.
-
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmacieldev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=luizmacieldev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmacieldev&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmacieldev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=luizmacieldev&theme=tokyonight&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com?user=luizmacieldev&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/luizmacieldev/luizmacieldev/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/luizmacieldev/luizmacieldev/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/luizmacieldev/luizmacieldev/output/github-snake.svg">
+
+<source
+ media="(prefers-color-scheme: dark)"
+ srcset="https://raw.githubusercontent.com/luizmacieldev/luizmacieldev/output/github-snake-dark.svg">
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/luizmacieldev/luizmacieldev/output/github-snake.svg">
+
+<img
+ alt="GitHub Contribution Snake"
+ src="https://raw.githubusercontent.com/luizmacieldev/luizmacieldev/output/github-snake.svg">
+
 </picture>
 
 </div>
 
 ---
 
-## 🌱 Currently Learning
+# 👾 Pac-Man Contributions
 
-* Advanced Python
-* Software Architecture
-* System Design
-* Cloud Architecture
-* Distributed Systems
-* Modern Web Development
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/luizmacieldev/luizmacieldev/output/pacman-contribution-graph.svg"
+alt="Pac-Man Contribution Graph"/>
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+# 🧑‍💻 Currently Working On
+
+* ⚛️ Building applications with **React**
+* 🐍 Developing backend systems with **Python & Django**
+* 🔌 Building APIs and external integrations
+* 🕷️ Developing web scraping and automation solutions
+* ☁️ Improving cloud and deployment skills
+* 🧠 Studying software architecture and system design
+
+---
+
+# 📚 Currently Learning
+
+```text
+React & TypeScript
+       ↓
+Advanced Python
+       ↓
+Software Architecture
+       ↓
+System Design
+       ↓
+Cloud Architecture
+       ↓
+Distributed Systems
+```
+
+---
+
+# 🎯 Developer Philosophy
+
+> **Build things. Solve problems. Keep learning.**
+
+I believe good software is not only about making things work.
+
+It's about writing code that other developers can understand, maintain and improve.
+
+---
+
+# 📫 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/luizmacieldev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/luizmacieldev/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://luizmacieldev.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </div>
 
-<br>
+<br/>
 
 <div align="center">
 
-### 💻 Building things, solving problems, learning every day.
+### 💻 Building things, solving problems, and enjoying the journey.
 
 </div>
