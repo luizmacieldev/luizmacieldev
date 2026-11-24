@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="./assets/github-banner.png" width="100%" alt="Luiz Maciel - Software Developer"/>
 
 <br/>
 
@@ -93,77 +92,7 @@ Development
 
 ---
 
-# 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🕷️ Country Music Scraper
-
-Web scraping application built with **Python and Scrapy** to collect detailed information about country music artists from Last.fm.
-
-**Stack**
-
-`Python` `Scrapy` `MongoDB` `Streamlit`
-
-<br/>
-
-<a href="https://github.com/luizmacieldev/country_music_scrapper">
-View Project →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🧍 Attack on Titan Explorer
-
-Full-stack application for exploring characters, titans and episodes from Attack on Titan.
-
-**Stack**
-
-`Django` `React` `API` `JavaScript`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🎮 Free Games Explorer
-
-Modern frontend application for discovering and exploring free-to-play games using an external REST API.
-
-**Stack**
-
-`Vue` `JavaScript` `REST API`
-
-</td>
-
-<td width="50%">
-
-### 👨‍💼 Avature Job Scraper
-
-Automation solution designed to collect job postings from companies using the Avature ATS.
-
-**Stack**
-
-`Python` `Selenium` `Web Scraping`
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
 
 # 💡 What I Like Building
 
@@ -218,104 +147,5 @@ alt="Top Languages"/>
 <img
 src="https://streak-stats.demolab.com?user=luizmacieldev&theme=tokyonight&hide_border=true"
 alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-
-<source
- media="(prefers-color-scheme: dark)"
- srcset="https://raw.githubusercontent.com/luizmacieldev/luizmacieldev/output/github-snake-dark.svg">
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/luizmacieldev/luizmacieldev/output/github-snake.svg">
-
-<img
- alt="GitHub Contribution Snake"
- src="https://raw.githubusercontent.com/luizmacieldev/luizmacieldev/output/github-snake.svg">
-
-</picture>
-
-</div>
-
----
-
-# 👾 Pac-Man Contributions
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/luizmacieldev/luizmacieldev/output/pacman-contribution-graph.svg"
-alt="Pac-Man Contribution Graph"/>
-
-</div>
-
----
-
-# 🧑‍💻 Currently Working On
-
-* ⚛️ Building applications with **React**
-* 🐍 Developing backend systems with **Python & Django**
-* 🔌 Building APIs and external integrations
-* 🕷️ Developing web scraping and automation solutions
-* ☁️ Improving cloud and deployment skills
-* 🧠 Studying software architecture and system design
-
----
-
-# 📚 Currently Learning
-
-```text
-React & TypeScript
-       ↓
-Advanced Python
-       ↓
-Software Architecture
-       ↓
-System Design
-       ↓
-Cloud Architecture
-       ↓
-Distributed Systems
-```
-
----
-
-# 🎯 Developer Philosophy
-
-> **Build things. Solve problems. Keep learning.**
-
-I believe good software is not only about making things work.
-
-It's about writing code that other developers can understand, maintain and improve.
-
----
-
-# 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/luizmacieldev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://luizmacieldev.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### 💻 Building things, solving problems, and enjoying the journey.
 
 </div>
